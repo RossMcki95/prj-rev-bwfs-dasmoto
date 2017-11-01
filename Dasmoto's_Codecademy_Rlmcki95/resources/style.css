@@ -1,0 +1,42 @@
+body{
+  font-family:Helvetica;
+  background: linear-gradient(AntiqueWhite, BurlyWood);
+}
+
+
+h1.header-site{
+  font-family:Helvetica;
+  font-size:100px;
+  font-weight:bold;
+  color:khaki;
+  text-align: center;
+  background-image: url("../images/pattern.jpeg");
+  text-shadow: 3px 2px Coral;
+}
+
+
+#content h1{
+  font-family:Helvetica;
+  font-size:32px;
+  font-weight:bold;
+  color:white;
+  text-shadow: 1px 1px 1px black;
+}
+
+h1.green{
+  background-color:mediumspringgreen;
+}
+
+h1.red{
+  background-color:lightcoral;
+}
+
+h1.blue{
+  background-color:skyblue;
+}
+
+p.cost{
+  color:blue;
+  font-family:Helvetica;
+  font-weight:bold;
+}
